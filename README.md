@@ -19,7 +19,7 @@ This project is a fullstack application, the backend built using ASP.NET Web API
 --------
 ### 💻 **Tech**
   - [Exception Handling](https://docs.microsoft.com/en-us/aspnet/core/performance/caching/memory?view=aspnetcore-5.0)
-  - [SOLID - The Dependency Inversion Principle (DIP)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/exceptions/) 
+  - [SOLID - The Dependency Inversion Principle (DIP)](https://www.codeproject.com/Articles/1135745/Dependency-Inversion-Principle-DIP-2) 
   - [Cache in-memory](https://docs.microsoft.com/en-us/aspnet/core/performance/caching/memory?view=aspnetcore-5.0)
   - [DTO - Data Transfer Object](https://docs.microsoft.com/en-us/aspnet/web-api/overview/data/using-web-api-with-entity-framework/part-5) 
   - [Unit Test]() 
